@@ -1,23 +1,3 @@
-📁 Estructura del proyecto
-bash
-Copiar código
-gestor_financiero/
-│
-├── app.py                    # Código principal de la aplicación
-├── requirements.txt          # Librerías necesarias
-├── README.md                 # Descripción del proyecto
-└── exportaciones/            # Carpeta donde se guardan los archivos CSV y PDF exportados
-📄 requirements.txt
-txt
-Copiar código
-ttkbootstrap
-matplotlib
-fpdf
-📝 README.md (Contenido sugerido)
-markdown
-Copiar código
-# 💰 Gestor Financiero de Clientes
-
 Aplicación de escritorio desarrollada en Python con interfaz gráfica moderna para gestionar finanzas personales por cliente. Diseñada con `Tkinter` + `ttkbootstrap` y potenciada con gráficos y exportaciones.
 
 ---
