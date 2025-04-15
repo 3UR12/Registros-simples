@@ -18,39 +18,29 @@ Aplicación de escritorio desarrollada en Python con interfaz gráfica moderna p
 
 1. Clona el repositorio:
 
-```bash
+```
 git clone https://github.com/tu_usuario/gestor_financiero.git
 cd gestor_financiero
+
 Instala las dependencias:
-
-bash
-Copiar código
 pip install -r requirements.txt
-Ejecuta la aplicación:
 
-bash
-Copiar código
+Ejecuta la aplicación:
 python app.py
+
 📊 Tecnologías utilizadas
 Python
-
 Tkinter
-
 ttkbootstrap
-
 Matplotlib
-
 FPDF
 
 📁 Exportaciones
 Los archivos exportados (CSV y PDF) se guardan automáticamente en la carpeta exportaciones/.
 
 📌 Autor
-Desarrollado por [Tu Nombre].
+Desarrollado por [3UR12].
 Contribuciones y mejoras son bienvenidas.
-
-yaml
-Copiar código
 
 ---
 
